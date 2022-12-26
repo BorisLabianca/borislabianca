@@ -46,4 +46,3 @@
 </p>--->
 
 
-[![Boris's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisLabianca)](https://github.com/BorisLabianca/github-readme-stats)
