@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Boris
+# Hi there 👋, my name is Boris
 <!---![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)--->
 
-### Skills
+## Skills
 
 
 <p align="left">
