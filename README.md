@@ -14,7 +14,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="50" height="50" alt="NextJs" /></a>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/114598539/219395329-fb334154-7988-462f-92d4-1b97e731b094.svg" width="50" height="50" alt="Redux Toolkit" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" alt="TailwindCSS" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/114598539/219419172-5d06e580-8c77-492d-800a-a215ccd86b63.svg" width="50" height="50" alt="Vite js" /><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/114598539/223701056-0129d1fc-c361-4842-b9cb-ababa5bbc7e0.svg" width="50" height="50" alt="TypeScript" />
 </p>
 
 
